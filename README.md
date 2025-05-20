@@ -1,0 +1,1 @@
+# funny-java-hw-day1
